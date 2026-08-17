@@ -1,0 +1,41 @@
+h1{
+    font-size:70px;
+    color: #4d0000;
+    text-align: center;
+    margin-bottom: 5px;
+    font-family: sans-serif
+}
+
+hr{
+    width: 50%;
+    background: #4d0000;
+    height: 2px;
+}
+
+p{
+    width: 50%;
+    margin: auto;
+}
+
+img{
+    height: 400px;
+    margin:auto;
+    margin-left: 120px;
+
+}
+
+video{
+    height: 400px;
+}
+
+.dbz{
+    width: fit-content;
+    margin:auto;
+}
+
+video{
+    width: 30%;
+    margin: auto;
+    display:block
+    
+}
